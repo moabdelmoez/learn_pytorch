@@ -52,8 +52,8 @@ Ivy
 **What about TensorFlow?**
 
 On the one hand, PyTorch has a more well-designed interface (API) for development, while TensorFlow’s API is still considered somewhat confusing. On the other hand, TensorFlow is more mature than PyTorch when it comes to deployment in production. For this reason, and given the interoperability between frameworks provided by tools such as ONNX and Ivy, we’re briefly discussing TensorFlow’s alternatives for deployment: TensorFlow Serving and TensorFlow Lite.
-> *TensorFlow Serving is the counterpart to TorchServe*
-> *TensorFlow Lite is the counterpart to PyTorch Mobile*
+>* *TensorFlow Serving is the counterpart to TorchServe*
+>* *TensorFlow Lite is the counterpart to PyTorch Mobile*
 
 # Chapter 2
 
